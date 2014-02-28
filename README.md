@@ -47,6 +47,13 @@ Updating the Google Maps API Key
 3. Follow the instructions under the section "Obtaining an API Key"
 4. Open settings.plist in this xcodeproject and paste the key into the field "GoogleMapsAPIKey"
 
+Test Addresses
+--------------
+TODO: Debug these. Crash when attempting to load json 'id' to contest, which doesn't have
+        an id field.
+ElectionID: 4008 -- 901 Park Avenue, Richmond VA
+ElectionID: 4008 -- 2320 E Main St, Richmond VA
+
 Licenses
 --------
 
